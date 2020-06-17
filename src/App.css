@@ -1,3 +1,13 @@
+#red-border {
+  border-style: solid;
+  border-color: red;
+}
+
+#blue-border {
+  border-style: solid;
+  border-color: blue;
+}
+
 .App {
   text-align: center;
 }
